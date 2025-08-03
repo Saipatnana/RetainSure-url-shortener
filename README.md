@@ -20,7 +20,7 @@ This is a lightweight URL shortener service built using Flask, simulating servic
 ```bash
 # Clone/download this repository
 # Navigate to the assignment directory
-cd url-shortener
+cd RetainSure-url-shortener
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
